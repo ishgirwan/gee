@@ -24,7 +24,7 @@ The satellite data used for model training was from Landsat 8 Surface Reflectanc
 
 |![Village name:Goudur](https://github.com/ishgirwan/hdi_prediction/blob/master/readme_images/village.png) | ![Number of Pixels](https://github.com/ishgirwan/hdi_prediction/blob/master/readme_images/number%20of%20pixels.png)
 |:---:|:---:|
-| Village name: Goudur| Number of Pixels per band |
+| Sample - Village name: Goudur| Range of number of Pixels per band in the dataset|
 
 ## Modelling
 ### Algorithm
