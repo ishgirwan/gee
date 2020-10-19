@@ -26,6 +26,10 @@ The satellite data used for model training was from Landsat 8 Surface Reflectanc
 |:---:|:---:|
 | Sample - Village name: Goudur| Range of number of Pixels per band in the dataset|
 
+### Download dataset
+
+The dataset is hosted at [Kaggle](https://www.kaggle.com/ishgirwan/predict-hdi-of-villages-using-satellite-imagery) and is publicly available.
+
 ## Modelling
 ### Algorithm
 Algorithm details:
